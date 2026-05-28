@@ -62,9 +62,7 @@
 /vis/viewer/set/autoRefresh true
 /vis/viewer/refresh
 /vis/verbose warnings
-/gun/particle proton
-/gun/energy 100 MeV
-/run/beamOn 100
-/vis/scene/notifyHandlers scene-0
 /gun/energy 10 MeV
-/run/beamOn 100
+/gun/particle proton
+/run/beamOn 1000
+/vis/scene/notifyHandlers scene-0

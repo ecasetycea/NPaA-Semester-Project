@@ -152,6 +152,7 @@ void RunAction::EndOfRunAction(const G4Run* run)
 
     G4cout << "start_split" << G4endl;
     G4cout << DEDX * cm / MeV << " " << deltaDEDX * cm / MeV << G4endl;
+    G4cout << "DEDX (MeV/cm)" << " " << "deltaDEDX (MeV/cm)" << G4endl;
     G4cout.flush();
   }
 }
