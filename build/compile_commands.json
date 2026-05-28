@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/include -isystem /home/ecasetycea/Software/geant4/geant4-install/include/Geant4 -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -fPIC -o CMakeFiles/exampleB1.dir/exampleB1.cc.o -c /home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/exampleB1.cc",
+  "file": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/exampleB1.cc",
+  "output": "CMakeFiles/exampleB1.dir/exampleB1.cc.o"
+},
+{
+  "directory": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/include -isystem /home/ecasetycea/Software/geant4/geant4-install/include/Geant4 -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -fPIC -o CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o -c /home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/ActionInitialization.cc",
+  "file": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/ActionInitialization.cc",
+  "output": "CMakeFiles/exampleB1.dir/src/ActionInitialization.cc.o"
+},
+{
+  "directory": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/include -isystem /home/ecasetycea/Software/geant4/geant4-install/include/Geant4 -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -fPIC -o CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o -c /home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/DetectorConstruction.cc",
+  "file": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/DetectorConstruction.cc",
+  "output": "CMakeFiles/exampleB1.dir/src/DetectorConstruction.cc.o"
+},
+{
+  "directory": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/include -isystem /home/ecasetycea/Software/geant4/geant4-install/include/Geant4 -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -fPIC -o CMakeFiles/exampleB1.dir/src/EventAction.cc.o -c /home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/EventAction.cc",
+  "file": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/EventAction.cc",
+  "output": "CMakeFiles/exampleB1.dir/src/EventAction.cc.o"
+},
+{
+  "directory": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/include -isystem /home/ecasetycea/Software/geant4/geant4-install/include/Geant4 -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -fPIC -o CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o -c /home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/PrimaryGeneratorAction.cc",
+  "file": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/PrimaryGeneratorAction.cc",
+  "output": "CMakeFiles/exampleB1.dir/src/PrimaryGeneratorAction.cc.o"
+},
+{
+  "directory": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/include -isystem /home/ecasetycea/Software/geant4/geant4-install/include/Geant4 -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -fPIC -o CMakeFiles/exampleB1.dir/src/RunAction.cc.o -c /home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/RunAction.cc",
+  "file": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/RunAction.cc",
+  "output": "CMakeFiles/exampleB1.dir/src/RunAction.cc.o"
+},
+{
+  "directory": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_QT3D -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/include -isystem /home/ecasetycea/Software/geant4/geant4-install/include/Geant4 -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtWidgets -fPIC -o CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o -c /home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/SteppingAction.cc",
+  "file": "/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/src/SteppingAction.cc",
+  "output": "CMakeFiles/exampleB1.dir/src/SteppingAction.cc.o"
+}
+]

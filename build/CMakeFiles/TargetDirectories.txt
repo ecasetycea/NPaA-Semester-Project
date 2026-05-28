@@ -1,0 +1,3 @@
+/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build/CMakeFiles/exampleB1.dir
+/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build/CMakeFiles/edit_cache.dir
+/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build/CMakeFiles/rebuild_cache.dir

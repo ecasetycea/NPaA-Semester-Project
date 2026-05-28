@@ -1,0 +1,30 @@
+--------------------End of Global Run-----------------------
+The run consists of 100events.
+<E-loss> = 36.9617 keV
+delta<E-loss> = 3.91369 keV
+<x> = 100.189 um 
+delta<x> = 15202.1 fm 
+dE/dx = 3.68921 MeV/cm
+delta(dE/dx) = 390.631 keV/cm
+------------------------------------------------------------
+
+--------------------End of Global Run-----------------------
+The run consists of 100events.
+<E-loss> = 36.9617 keV
+delta<E-loss> = 3.91369 keV
+<x> = 100.189 um 
+delta<x> = 15199.9 fm 
+dE/dx = 3.68921 MeV/cm
+delta(dE/dx) = 390.631 keV/cm
+------------------------------------------------------------
+
+--------------------End of Global Run-----------------------
+The run consists of 100events.
+<E-loss> = 44.0205 keV
+delta<E-loss> = 7.64717 keV
+<x> = 100 um 
+delta<x> = 149.012 fm 
+dE/dx = 4.40205 MeV/cm
+delta(dE/dx) = 764.717 keV/cm
+------------------------------------------------------------
+

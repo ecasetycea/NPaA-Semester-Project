@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ecasetycea/Software/geant4/projects/NPaA-Semester-Project/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

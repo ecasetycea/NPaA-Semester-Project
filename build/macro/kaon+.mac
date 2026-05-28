@@ -1,0 +1,231 @@
+/run/initialize
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/process/verbose 0
+/vis/verbose errors
+#
+# PARTICLE
+/gun/particle kaon+
+#
+/control/echo "run 1"
+/gun/energy 0.0001 MeV
+/run/beamOn 10000
+/control/echo "run 2"
+/gun/energy 0.0002 MeV
+/run/beamOn 10000
+/control/echo "run 3"
+/gun/energy 0.0003 MeV
+/run/beamOn 10000
+/control/echo "run 4"
+/gun/energy 0.0004 MeV
+/run/beamOn 10000
+/control/echo "run 5"
+/gun/energy 0.0005 MeV
+/run/beamOn 10000
+/control/echo "run 6"
+/gun/energy 0.0006 MeV
+/run/beamOn 10000
+/control/echo "run 7"
+/gun/energy 0.0007 MeV
+/run/beamOn 10000
+/control/echo "run 8"
+/gun/energy 0.0008 MeV
+/run/beamOn 10000
+/control/echo "run 9"
+/gun/energy 0.0009 MeV
+/run/beamOn 10000
+/control/echo "run 10"
+/gun/energy 0.001 MeV
+/run/beamOn 10000
+/control/echo "run 11"
+/gun/energy 0.002 MeV
+/run/beamOn 10000
+/control/echo "run 12"
+/gun/energy 0.003 MeV
+/run/beamOn 10000
+/control/echo "run 13"
+/gun/energy 0.004 MeV
+/run/beamOn 10000
+/control/echo "run 14"
+/gun/energy 0.005 MeV
+/run/beamOn 10000
+/control/echo "run 15"
+/gun/energy 0.006 MeV
+/run/beamOn 10000
+/control/echo "run 16"
+/gun/energy 0.007 MeV
+/run/beamOn 10000
+/control/echo "run 17"
+/gun/energy 0.008 MeV
+/run/beamOn 10000
+/control/echo "run 18"
+/gun/energy 0.009 MeV
+/run/beamOn 10000
+/control/echo "run 19"
+/gun/energy 0.01 MeV
+/run/beamOn 10000
+/control/echo "run 20"
+/gun/energy 0.02 MeV
+/run/beamOn 10000
+/control/echo "run 21"
+/gun/energy 0.03 MeV
+/run/beamOn 10000
+/control/echo "run 22"
+/gun/energy 0.04 MeV
+/run/beamOn 10000
+/control/echo "run 23"
+/gun/energy 0.05 MeV
+/run/beamOn 10000
+/control/echo "run 24"
+/gun/energy 0.06 MeV
+/run/beamOn 10000
+/control/echo "run 25"
+/gun/energy 0.07 MeV
+/run/beamOn 10000
+/control/echo "run 26"
+/gun/energy 0.08 MeV
+/run/beamOn 10000
+/control/echo "run 27"
+/gun/energy 0.09 MeV
+/run/beamOn 10000
+/control/echo "run 28"
+/gun/energy 0.1 MeV
+/run/beamOn 10000
+/control/echo "run 29"
+/gun/energy 0.2 MeV
+/run/beamOn 10000
+/control/echo "run 30"
+/gun/energy 0.3 MeV
+/run/beamOn 10000
+/control/echo "run 31"
+/gun/energy 0.4 MeV
+/run/beamOn 10000
+/control/echo "run 32"
+/gun/energy 0.5 MeV
+/run/beamOn 10000
+/control/echo "run 33"
+/gun/energy 0.6 MeV
+/run/beamOn 10000
+/control/echo "run 34"
+/gun/energy 0.7 MeV
+/run/beamOn 10000
+/control/echo "run 35"
+/gun/energy 0.8 MeV
+/run/beamOn 10000
+/control/echo "run 36"
+/gun/energy 0.9 MeV
+/run/beamOn 10000
+/control/echo "run 37"
+/gun/energy 1 MeV
+/run/beamOn 10000
+/control/echo "run 38"
+/gun/energy 2 MeV
+/run/beamOn 10000
+/control/echo "run 39"
+/gun/energy 3 MeV
+/run/beamOn 10000
+/control/echo "run 40"
+/gun/energy 4 MeV
+/run/beamOn 10000
+/control/echo "run 41"
+/gun/energy 5 MeV
+/run/beamOn 10000
+/control/echo "run 42"
+/gun/energy 6 MeV
+/run/beamOn 10000
+/control/echo "run 43"
+/gun/energy 7 MeV
+/run/beamOn 10000
+/control/echo "run 44"
+/gun/energy 8 MeV
+/run/beamOn 10000
+/control/echo "run 45"
+/gun/energy 9 MeV
+/run/beamOn 10000
+/control/echo "run 46"
+/gun/energy 10 MeV
+/run/beamOn 10000
+/control/echo "run 47"
+/gun/energy 20 MeV
+/run/beamOn 10000
+/control/echo "run 48"
+/gun/energy 30 MeV
+/run/beamOn 10000
+/control/echo "run 49"
+/gun/energy 40 MeV
+/run/beamOn 10000
+/control/echo "run 50"
+/gun/energy 50 MeV
+/run/beamOn 10000
+/control/echo "run 51"
+/gun/energy 60 MeV
+/run/beamOn 10000
+/control/echo "run 52"
+/gun/energy 70 MeV
+/run/beamOn 10000
+/control/echo "run 53"
+/gun/energy 80 MeV
+/run/beamOn 10000
+/control/echo "run 54"
+/gun/energy 90 MeV
+/run/beamOn 10000
+/control/echo "run 55"
+/gun/energy 100 MeV
+/run/beamOn 10000
+/control/echo "run 56"
+/gun/energy 200 MeV
+/run/beamOn 10000
+/control/echo "run 57"
+/gun/energy 300 MeV
+/run/beamOn 10000
+/control/echo "run 58"
+/gun/energy 400 MeV
+/run/beamOn 10000
+/control/echo "run 59"
+/gun/energy 500 MeV
+/run/beamOn 10000
+/control/echo "run 60"
+/gun/energy 600 MeV
+/run/beamOn 10000
+/control/echo "run 61"
+/gun/energy 700 MeV
+/run/beamOn 10000
+/control/echo "run 62"
+/gun/energy 800 MeV
+/run/beamOn 10000
+/control/echo "run 63"
+/gun/energy 900 MeV
+/run/beamOn 10000
+/control/echo "run 64"
+/gun/energy 1000 MeV
+/run/beamOn 10000
+/control/echo "run 65"
+/gun/energy 2000 MeV
+/run/beamOn 10000
+/control/echo "run 66"
+/gun/energy 3000 MeV
+/run/beamOn 10000
+/control/echo "run 67"
+/gun/energy 4000 MeV
+/run/beamOn 10000
+/control/echo "run 68"
+/gun/energy 5000 MeV
+/run/beamOn 10000
+/control/echo "run 69"
+/gun/energy 6000 MeV
+/run/beamOn 10000
+/control/echo "run 70"
+/gun/energy 7000 MeV
+/run/beamOn 10000
+/control/echo "run 71"
+/gun/energy 8000 MeV
+/run/beamOn 10000
+/control/echo "run 72"
+/gun/energy 9000 MeV
+/run/beamOn 10000
+/control/echo "run 73"
+/gun/energy 10000 MeV
+/run/beamOn 10000
+
