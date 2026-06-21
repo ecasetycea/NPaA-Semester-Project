@@ -87,7 +87,7 @@ G4VPhysicalVolume* DetectorConstruction::Construct()
   |    SLAB    |
   \*==========*/
   // Sizes
-  G4double halfThickness = 5. * mm; // TODO: be modifiable during runtime
+  G4double halfThickness = 50. * um; // TODO: be modifiable during runtime
   G4double halfSizeXY    = 5. * cm;   // large enough so ray doesn't go outside
 
   // Volumes

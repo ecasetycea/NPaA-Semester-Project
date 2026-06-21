@@ -3,7 +3,7 @@ set output sprintf("%s.png", particle)
 
 set title sprintf("Particle: %s", particle)
 set grid
-set key outside
+#set key outside
 
 # split the files string into individual files
 filearray = files

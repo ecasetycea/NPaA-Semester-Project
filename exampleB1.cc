@@ -43,6 +43,13 @@
 #include <G4String.hh>
 // #include "Randomize.hh"
 
+#include "G4VModularPhysicsList.hh"
+#include "G4EmStandardPhysics_option4.hh"
+#include "G4HadronPhysicsFTFP_BERT.hh"
+#include "G4IonPhysics.hh"
+#include "G4StoppingPhysics.hh"
+
+
 using namespace B1;
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
@@ -72,9 +79,21 @@ int main(int argc, char** argv)
   runManager->SetUserInitialization(new DetectorConstruction());
 
   // Physics list
+  /*
   auto physicsList = new QBBC;
   physicsList->SetVerboseLevel(1);
   runManager->SetUserInitialization(physicsList);
+*/
+
+  auto physicsList = new G4VModularPhysicsList();
+  physicsList->RegisterPhysics(new G4EmStandardPhysics_option4());
+  physicsList->RegisterPhysics(new G4HadronPhysicsFTFP_BERT());
+  physicsList->RegisterPhysics(new G4IonPhysics());
+  physicsList->RegisterPhysics(new G4StoppingPhysics());
+  physicsList->SetVerboseLevel(1);
+  runManager->SetUserInitialization(physicsList);
+
+
 
   // User action initialization
   runManager->SetUserInitialization(new ActionInitialization());
